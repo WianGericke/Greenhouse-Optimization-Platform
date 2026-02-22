@@ -1,2 +1,2 @@
 # Greenhouse-Optimization-Platform
-Modular optimization platform for commercial greenhouse operations (events, forecasts, and planning).
+A modular engine that ingests greenhouse operational data and produces standardized events, forecasts, and action plans to support predictive greenhouse decision-making.
